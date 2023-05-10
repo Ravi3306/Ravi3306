@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ravi
-- 👀 I’m interested in becoming Full Stack Developer and wants to learn ML?AI as well
+- 👀 I’m interested in becoming Full Stack Developer and wants to learn ML/AI as well
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me joshiravishankar466@gmail.com
 
